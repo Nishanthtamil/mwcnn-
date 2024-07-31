@@ -27,3 +27,5 @@ To use this repository, follow these steps:
    ```bash
    git clone https://github.com/Nishanthtamil/mwcnn.git
    cd mwcnn
+2.install the requirements:
+pip install -r requirements.txt
