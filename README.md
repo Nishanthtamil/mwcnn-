@@ -20,11 +20,6 @@ The dataset used in this project is sourced from Kaggle's Wildlife Animals datas
 ## Model Architecture
 The model includes Discrete Wavelet Transform (DWT) and Inverse Discrete Wavelet Transform (IDWT) layers to process the images. The architecture is designed to effectively denoise and restore images.
 
-##Results
-The model has shown promising results in restoring noised images. Detailed results and performance metrics will be added soon.
-
-##Contributions
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
 ## Usage
 To use this repository, follow these steps:
 
@@ -36,8 +31,8 @@ To use this repository, follow these steps:
    ```bash
    pip install -r requirements.txt
    cd mwcnn
-##Results
+## Results
 The model has shown promising results in restoring noised images. Detailed results and performance metrics will be added soon.
 
-##Contributions
+## Contributions
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
